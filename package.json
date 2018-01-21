@@ -1,0 +1,22 @@
+{
+  "name": "blueshift-api",
+  "version": "1.0.0",
+  "description": "The backend API for blueshift card data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Austin Hill",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.16",
+    "mongoose": "^4.13.9",
+    "node": "^9.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "number": "001",
+    "devTags": [
+        "prestige",
+        "explore"
+    ],
+    "versions": [
+        {
+            "userId": "Austin",
+            "name": "Susie Orbit",
+            "type": "C",
+            "traits": [
+                "Civilian"
+            ],
+            "cost": 3,
+            "icons": "MM",
+            "maxCopies": 1,
+            "crewSize": 1,
+            "abilities": [
+                "[2 ☆]",
+                "When you *explore*, pay [$] - gain [☆].",
+                "[Intergalactic Reporter] When this ship gains any [☆], gain[$][$]."
+            ]
+        }
+    ]
+}
